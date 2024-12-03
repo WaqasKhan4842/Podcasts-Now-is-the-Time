@@ -1,0 +1,12 @@
+
+.container{
+    margin-top: 2rem;
+    width: 100vw;
+    min-height: 100vh; /* Ensures the container covers the entire height */
+}
+.aside{
+
+    margin-left: 0;
+    border-right: 1px solid rgb(215, 209, 209);
+    min-height: 100vh; /* Ensures the container covers the entire height */
+}
